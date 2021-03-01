@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1> The hosted version is available on https://tinder-clone-8e51c.web.app</h1>
+<p> It runs on custom api do a post request for with {name:"example",image:"example.url"} for adding your own data on https://aloneapi.herokuapp.com/data/ </p>
+
+
 
 ## Available Scripts
 
